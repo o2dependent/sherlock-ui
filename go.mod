@@ -1,4 +1,4 @@
-module changeme
+module sherlockui
 
 go 1.18
 
